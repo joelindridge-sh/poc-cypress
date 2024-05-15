@@ -1,0 +1,27 @@
+# https://help.github.com/articles/ignoring-files/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Cypress environment variable file
+cypress.env.json
+
+# Cypress test run files
+/cypress/reports/
+/cypress/screenshots/
+# downloads?
+# outputs?
+
+# VSCode settings
+.vscode

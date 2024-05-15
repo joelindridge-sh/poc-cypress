@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.12",
+    "cypress": "^13.9.0",
+    "prettier": "^3.2.5",
+    "typescript": "^5.4.5"
+  },
+  "prettier": {
+    "printWidth": 200
+  }
+}
